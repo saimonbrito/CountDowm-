@@ -2,15 +2,8 @@ import LogicaCountDowm from './components/LogicaCountDowm'
 import './App.css'
 
 
-
-
 function App() {
   
-  function gol(){
-      
-   alert('clicou')
-  }
-
   return (
     <>
        <section className='time'>
